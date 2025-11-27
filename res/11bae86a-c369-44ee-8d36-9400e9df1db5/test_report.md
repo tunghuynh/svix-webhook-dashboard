@@ -2,7 +2,7 @@
 
 **Thời gian test:** 2025-11-27  
 **URL ứng dụng:** http://localhost:5176  
-**Người thực hiện:** Automated Testing Agent
+**Người thực hiện:** Automated Testing Agent (Google Antigravity + Claude Sonnet 4.5 model)
 
 ---
 
