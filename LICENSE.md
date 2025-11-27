@@ -1,4 +1,4 @@
-# Modified MIT License with Non-Commercial Sale Restriction
+# MIT License with Non-Commercial Sale Restriction
 
 Copyright (c) 2025 Tùng Huynh (https://tunghuynh.net)
 
