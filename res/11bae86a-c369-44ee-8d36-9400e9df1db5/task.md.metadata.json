@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_TASK",
+  "summary": "Detailed testing checklist covering authentication, feature testing (Applications, Event Types, Endpoints, Messages, Dashboard), UI/UX testing (theme switching), responsive testing (desktop, tablet, mobile), and test report creation",
+  "updatedAt": "2025-11-27T03:14:59.073898400Z"
+}

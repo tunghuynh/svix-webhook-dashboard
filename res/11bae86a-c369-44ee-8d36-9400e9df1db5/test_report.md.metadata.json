@@ -1,0 +1,6 @@
+{
+  "artifactType": "ARTIFACT_TYPE_OTHER",
+  "summary": "Comprehensive test report for Svix Webhook Dashboard application covering authentication, feature testing (Applications, Event Types, Endpoints, Messages, Dashboard), UI/UX testing (theme switching), and responsive design testing. Documents all test results, identified bugs, observations, and recommendations. Includes embedded screenshots and recordings from testing sessions with absolute paths for proper image display. Overall success rate: 93.1% with 5 issues identified (3 medium, 2 low severity).",
+  "updatedAt": "2025-11-27T03:37:05.034558500Z",
+  "version": "1"
+}
